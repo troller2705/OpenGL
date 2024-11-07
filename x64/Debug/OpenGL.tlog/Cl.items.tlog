@@ -1,6 +1,8 @@
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\Game\main.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\main.obj
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Game\OGame.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\OGame.obj
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Window\OWindow.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\OWindow.obj
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\OGraphicsEngine.obj
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\vendor\glad\src\glad.c;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\glad.obj
-D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\vendor\glad\src\glad_wgl.c;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OpenGL\x64\Debug\glad_wgl.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\Game\main.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\main.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Game\Win32\CWin32Game.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\CWin32Game.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Game\OGame.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\OGame.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Graphics\Win32\CWin32GraphicsEngine.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\CWin32GraphicsEngine.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Window\CWin32Window.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\CWin32Window.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\OGraphicsEngine.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\vendor\glad\src\glad.c;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\glad.obj
+D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\OGL3D\vendor\glad\src\glad_wgl.c;D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\glad_wgl.obj

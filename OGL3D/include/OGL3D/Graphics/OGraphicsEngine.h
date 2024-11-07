@@ -7,7 +7,7 @@ class OGraphicsEngine
 		OGraphicsEngine();
 		~OGraphicsEngine();
 
-public:
-	void clear(const OVec4& color);
+	public:
+		void clear(const OVec4& color);
 };
 

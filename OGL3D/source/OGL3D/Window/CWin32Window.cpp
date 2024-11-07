@@ -96,3 +96,14 @@ OWindow::~OWindow()
 	DestroyWindow(HWND(m_handle));
 }
 
+void OWindow::makeCurrentContext()
+{
+	wglMakeCurrent(GetDC(HWND(m_handle)), HGLRC(m_context));
+}
+
+void OWindow::present(bool vsync)
+{
+	wglSwapIntervalEXT(vsync);
+	wglSwapLayerBuffers(GetDC(HWND(m_handle)), WGL_SWAP_MAIN_PLANE);
+}
+

@@ -12,6 +12,6 @@
     <img alt="Codebase | C++" src="https://img.shields.io/badge/-Codebase%20%7C%20CPP-333333?style=for-the-badge&logo=cplusplus">
   </a>
   <a aria-label="IDE">
-    <img alt="IDE | Visual Studio" src="https://img.shields.io/badge/-IDE%20%7C%20VS-333333?style=for-the-badge&logo=Visual-Studio">
+    <img alt="IDE | Visual Studio" src="https://img.shields.io/badge/-IDE%20%7C%20Visual%20Studio-333333?style=for-the-badge&logo=Visual-Studio">
   </a>
 </p>

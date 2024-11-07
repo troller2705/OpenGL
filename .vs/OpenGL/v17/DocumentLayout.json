@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7AC068E9-8C39-4281-9B16-B5DA75E18A12}|OpenGL.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7AC068E9-8C39-4281-9B16-B5DA75E18A12}|OpenGL.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AC068E9-8C39-4281-9B16-B5DA75E18A12}|OpenGL.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\source\\OGL3D\\Graphics\\OGraphicsEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7AC068E9-8C39-4281-9B16-B5DA75E18A12}|OpenGL.vcxproj|solutionrelative:OGL3D\\source\\OGL3D\\Graphics\\OGraphicsEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T13:34:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OPrerequisites.h",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\include\\OGL3D\\OPrerequisites.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\OPrerequisites.h",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\OPrerequisites.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-07T01:48:07.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T01:48:07.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OVec4.h",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\include\\OGL3D\\Math\\OVec4.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Math\\OVec4.h",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\Math\\OVec4.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-06T22:48:58.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T22:48:58.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OGraphicsEngine.cpp",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\source\\OGL3D\\Graphics\\OGraphicsEngine.cpp",
               "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Graphics\\OGraphicsEngine.cpp",
@@ -89,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OGraphicsEngine.h",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\include\\OGL3D\\Graphics\\OGraphicsEngine.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Graphics\\OGraphicsEngine.h",
@@ -97,12 +112,11 @@
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\Graphics\\OGraphicsEngine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-06T20:22:00.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:22:00.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OGame.cpp",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
               "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
@@ -110,12 +124,11 @@
               "RelativeToolTip": "OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-18T13:00:20.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T13:00:20.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OGame.h",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Game\\OGame.h",
@@ -123,12 +136,11 @@
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\Game\\OGame.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-18T13:00:06.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T13:00:06.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OWindow.cpp",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindow.cpp",
               "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Window\\OWindow.cpp",
@@ -136,12 +148,11 @@
               "RelativeToolTip": "OGL3D\\source\\OGL3D\\Window\\OWindow.cpp",
               "ViewState": "AgIAAEMAAAAAAAAAAAAgwF8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-18T11:59:12.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:59:12.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OWindow.h",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindow.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Window\\OWindow.h",
@@ -149,12 +160,11 @@
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\Window\\OWindow.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-18T11:58:33.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:58:33.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\OpenGL\\Game\\main.cpp",
               "RelativeDocumentMoniker": "Game\\main.cpp",
@@ -162,8 +172,7 @@
               "RelativeToolTip": "Game\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-18T11:49:42.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:49:42.019Z"
             }
           ]
         }

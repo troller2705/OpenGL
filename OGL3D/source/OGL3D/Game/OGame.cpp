@@ -19,15 +19,16 @@ OGame::~OGame()
 
 void OGame::onCreate()
 {
+	
+}
+
+void OGame::onUpdate()
+{
 	m_graphicsEngine->clear(OVec4(1, 0, 0, 1));
 
 
 
 	m_display->present(false);
-}
-
-void OGame::onUpdate()
-{
 }
 
 void OGame::onQuit()

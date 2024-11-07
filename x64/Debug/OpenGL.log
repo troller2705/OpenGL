@@ -1,7 +1,4 @@
-﻿  CWin32Game.cpp
-  OGame.cpp
-  CWin32GraphicsEngine.cpp
+﻿  OGame.cpp
   CWin32Window.cpp
-  OGraphicsEngine.cpp
   Generating Code...
   OpenGL.vcxproj -> D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\OpenGL.exe

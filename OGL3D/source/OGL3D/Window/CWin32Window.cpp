@@ -35,6 +35,7 @@ OWindow::OWindow()
 	wc.cbSize = sizeof(WNDCLASSEX);
 	wc.lpszClassName = L"OGL3DWindow";
 	wc.lpfnWndProc = &WndProc;
+	wc.style = CS_OWNDC;
 
 	auto classId = RegisterClassEx(&wc);
 	assert(classId);

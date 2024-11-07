@@ -6,7 +6,7 @@
 
 <p align="center">
   <a aria-label="Platforms">
-    <img alt="Platforms | Windows" src="https://img.shields.io/badge/Platforms%20%7C%20Windows-333333?style=for-the-badge&logo=Windows">
+    <img alt="Platforms | OpenGL" src="https://img.shields.io/badge/Platforms%20%7C%20OpenGL-333333?style=for-the-badge&logo=opengl">
   </a>
  <a aria-label="Codebase">
     <img alt="Codebase | C++" src="https://img.shields.io/badge/-Codebase%20%7C%20CPP-333333?style=for-the-badge&logo=cplusplus">

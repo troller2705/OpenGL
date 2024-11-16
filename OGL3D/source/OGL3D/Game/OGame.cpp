@@ -1,6 +1,7 @@
 #include <OGL3D/Game/OGame.h>
 #include <OGL3D/Window/OWindow.h>
 #include <OGL3D/Graphics/OGraphicsEngine.h>
+#include <OGL3D/Graphics/OVertexArrayObject.h>
 
 // Constructor
 OGame::OGame()
@@ -36,7 +37,7 @@ void OGame::onUpdate()
 
 	m_graphicsEngine->setVertexArrayObject(m_triangleVAO);
 
-	m_graphicsEngine->drawTriangles(3, 0);
+	m_graphicsEngine->drawTriangles(m_triangleVAO->getVertexBufferSize(), 0);
 
 	m_display->present(false);
 }

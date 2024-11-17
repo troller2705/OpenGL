@@ -4,6 +4,10 @@
 // Constructor
 OVertexArrayObject::OVertexArrayObject(const OVertexBufferDesc& data)
 {
+	if (!data.listSize) OGL3D_ERROR("OVertexArrayObject | listSize in NULL");
+	if (!data.vertexSize) OGL3D_ERROR("OVertexArrayObject | vertexSize in NULL");
+	if (!data.verticesList) OGL3D_ERROR("OVertexArrayObject | verticesList in NULL");
+
 	glGenVertexArrays(1, &m_vertexArrayObjectId);
 	glBindVertexArray(m_vertexArrayObjectId);
 

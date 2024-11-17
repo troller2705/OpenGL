@@ -9,7 +9,7 @@ class OGraphicsEngine
 		OGraphicsEngine();
 		~OGraphicsEngine();
 	public:
-		OVertexArrayObjectPtr createVertexArrayObject(const OVertexBufferData& data);
+		OVertexArrayObjectPtr createVertexArrayObject(const OVertexBufferDesc& data);
 		OShaderProgramPtr createShaderProgram(const OShaderProgramDesc& desc);
 	public:
 		void clear(const OVec4& color);

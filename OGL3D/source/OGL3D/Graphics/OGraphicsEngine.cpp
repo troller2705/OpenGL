@@ -6,7 +6,7 @@
 #include <stdexcept>
 
 
-OVertexArrayObjectPtr OGraphicsEngine::createVertexArrayObject(const OVertexBufferData& data)
+OVertexArrayObjectPtr OGraphicsEngine::createVertexArrayObject(const OVertexBufferDesc& data)
 {
 	return std::make_shared<OVertexArrayObject>(data);
 }

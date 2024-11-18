@@ -79,7 +79,7 @@ void OGame::onUpdate()
 	auto deltaTime = (f32)elapsedSeconds.count();
 
 
-	m_scale += 0.707f * deltaTime; // 0.707(45°) 3.14(180°) 6.28(360°)
+	m_scale += 0.707f * deltaTime; // 0.707(45°)slow 3.14(180°)fast 6.28(360°)faster
 	auto currentScale = abs(sin(m_scale));
 
 

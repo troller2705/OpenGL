@@ -1,2 +1,14 @@
-﻿  OGame.cpp
+﻿  main.cpp
+  CWin32Game.cpp
+  OGame.cpp
+  CWin32GraphicsEngine.cpp
+  CWin32Window.cpp
+  OGraphicsEngine.cpp
+  OVertexArrayObject.cpp
+  OShaderProgram.cpp
+  OUniformBuffer.cpp
+  Generating Code...
+  glad.c
+  glad_wgl.c
+  Generating Code...
   OpenGL.vcxproj -> D:\College Docs\Term 2\122 - Programming Fundimentals 1\OpenGL\x64\Debug\OpenGL.exe
